@@ -11,7 +11,8 @@ In this repository I upload the revised content of a machine learning tutorial I
   - Regularized Regression (Ridge & Lasso)
 - Classification
   - K-Nearest Neighbors
-  - Support Vector Machines  
+  - Logistic Regression
+  - Support Vector Machines (coming soon)
 - Clustering
   - K-Means
 - Dimensionality Reduction
